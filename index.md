@@ -1,4 +1,33 @@
-title: "Hank Quinlan, Horrible Cop, Launches Site"
-date: 2014-04-30
+# OmicsDB
+
+## Help
+
+### Search for a gene
+
+### Investigating a gene function using orthologs
+OmicsDB enables the user to look for orthologs genes from other organisms. This can help in assessing the function of a gene, if it has already been studied in another organism.
+I also gives a list of publications citing other orthlogs genes.
+
+### Search for a gene
+
+
+
+Text attributes _italic_, *italic*, __bold__, **bold**, `monospace`.
+
+Horizontal rule:
+
 ---
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+
+Bullet list:
+
+  * apples
+  * oranges
+  * pears
+
+Numbered list:
+
+  1. apples
+  2. oranges
+  3. pears
+
+A [link](http://example.com).
